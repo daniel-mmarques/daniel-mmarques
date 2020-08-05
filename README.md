@@ -14,7 +14,6 @@
  <br/>Sou apaixonado por tecnologia.
  <br/>Atualmente também gosto de brincar com Arduino... 
  <br/> :email: &nbsp; Entre em contato comigo:
- <br/>[![Linkedin Badge](https://img.shields.io/badge/-DanielMarianoMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-mariano-marques/)](https://www.linkedin.com/in/daniel-mariano-marques/) 
-[![Gmail Badge](https://img.shields.io/badge/-danielmarianomarquespr@gmail.com-c14438?style=flat-  square&logo=Gmail&logoColor=white&link=mailto:danielmarianomarquespr@gmail.com)](mailto:danielmarianomarquespr@gmail.com)
+ <br/>[![Linkedin Badge](https://img.shields.io/badge/-DanielMarianoMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-mariano-marques/)](https://www.linkedin.com/in/daniel-mariano-marques/)
 | 
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-danielmarianomarquespr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmarianomarquespr@gmail.com)](mailto:danielmarianomarquespr@gmail.com)
