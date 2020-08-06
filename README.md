@@ -1,7 +1,3 @@
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 # Daniel Mariano Marques
 
 ## Olá pessoal 👋
