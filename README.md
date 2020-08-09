@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 
  <br/> Posso te ajudar com Html, CSS e Java
- <br/> Minha stack: Java, JavaScript,Html & CSS
+ <br/> Minha stack: Java, JavaScript, Html & CSS
  <br/> Sobre mim: Curto tecnologias, games como Fortnite, ApexLegends e seriados no Netflix
  <br/>Eu atualmente não trabalho apenas estudo até por que tenho apenas 14 anos de idade.
  <br/>Eu estou estudando atualmente muita pragramação em Java, Html, Css e JavaScript.
