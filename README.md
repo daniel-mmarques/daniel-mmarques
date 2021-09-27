@@ -8,7 +8,7 @@
  <br/>Eu atualmente não trabalho apenas estudo até por que tenho apenas 14 anos de idade.
  <br/>Eu estou estudando muita pragramação em Java, Flutter, Html, Css.
  <br/>Sou apaixonado por tecnologia.
- <br/>Também gosto de brincar com Arduino... 
+ <br/>Também gosto de brincar com Arduino e IOT... 
  <br/>
  <br/>
  <br/>:email: &nbsp; Entre em contato comigo:
