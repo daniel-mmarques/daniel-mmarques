@@ -2,13 +2,13 @@
 
 ## Olá pessoal 👋
 
- <br/> Posso te ajudar com Html, CSS, Java, Flutter
+ <br/> Posso lhe ajudar com Html, CSS, Java, Flutter
  <br/> Minha stack: Java, Flutter, Arduino e Iot
- <br/> Sobre mim: Curto tecnologias, games como Fortnite, ApexLegends e seriados no Netflix
+ <br/> Sobre mim: Curto tecnologias, games como COD Warzone, ApexLegends, Fortnite e seriados no Netflix
  <br/>Eu atualmente não trabalho apenas estudo até por que tenho apenas 14 anos de idade.
- <br/>Eu estou estudando atualmente muita pragramação em Java, Flutter, Html, Css.
+ <br/>Eu estou estudando muita pragramação em Java, Flutter, Html, Css.
  <br/>Sou apaixonado por tecnologia.
- <br/>Atualmente também gosto de brincar com Arduino... 
+ <br/>Também gosto de brincar com Arduino... 
  <br/>
  <br/>
  <br/>:email: &nbsp; Entre em contato comigo:
