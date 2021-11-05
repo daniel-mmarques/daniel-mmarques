@@ -4,8 +4,8 @@
 
  <br/> Posso lhe ajudar com Html, CSS, Java, Flutter
  <br/> Minha stack: Java, Flutter, Arduino e Iot
- <br/> Sobre mim: Curto tecnologias, games como COD Warzone, ApexLegends, Fortnite e seriados no Netflix
- <br/>Eu atualmente não trabalho apenas estudo até por que tenho apenas 14 anos de idade.
+ <br/> Sobre mim: Curto tecnologia, games como COD Warzone e Fortnite além de seriados de sci-fi entre outros.
+ <br/>Eu atualmente não trabalho apenas estudo.
  <br/>Eu estou estudando muita pragramação em Java, Flutter, Html, Css.
  <br/>Sou apaixonado por tecnologia.
  <br/>Também gosto de brincar com Arduino e IOT... 
