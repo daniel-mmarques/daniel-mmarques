@@ -4,7 +4,6 @@
 
  <br/> Posso lhe ajudar com Html, CSS, Java, Flutter
  <br/> Minha stack: Java, Flutter, Arduino e Iot
- <br/> Sobre mim: Curto tecnologia, games como COD Warzone além de seriados de sci-fi entre outros.
  <br/>Eu atualmente não trabalho apenas estudo.
  <br/>Eu estou estudando muita pragramação em Java, Flutter, Html, Css.
  <br/>Sou apaixonado por tecnologia.
