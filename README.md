@@ -5,7 +5,7 @@
  <br/> Posso lhe ajudar com Html, CSS, Java, Flutter
  <br/> Minha stack: Java, Flutter, Arduino e Iot
  <br/>Eu atualmente não trabalho apenas estudo.
- <br/>Eu estou estudando muita pragramação em Java, Flutter, Html, Css.
+ <br/>Eu estou estudando pragramação em Java, Flutter, Html, Css.
  <br/>Sou apaixonado por tecnologia.
  <br/>Também gosto de brincar com Arduino e IOT... 
  <br/>
