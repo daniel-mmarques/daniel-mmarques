@@ -9,7 +9,7 @@
 
 Sou um estudante e entusiasta da tecnologia, com uma paixão ardente por desenvolvimento de software. Minha busca incessante por conhecimento e aprendizado contínuo são os motores que impulsionam meu trabalho.
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC)**. Paralelamente, sou estágiario do programa **GoDev** da **Senior Sistemas**, onde estou aprimorando tanto minhas hard skills quanto soft skills, além de adquirir conhecimentos práticos essenciais para a vida de um desenvolvedor.
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC)**. Paralelamente, sou estagiário do programa **GoDev** da **Senior Sistemas**, onde estou aprimorando tanto minhas hard skills quanto soft skills, além de adquirir conhecimentos práticos essenciais para a vida de um desenvolvedor.
 
 Este é um momento crucial na minha jornada, marcado pelo desejo de aplicar os conhecimentos adquiridos e dar os primeiros passos na minha carreira profissional.
 
