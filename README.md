@@ -26,8 +26,8 @@
 Você pode me encontrar nas redes sociais ou entrar em contato por e-mail.
 <br/> <br/>
 
-[![Gmail Badge](https://img.shields.io/badge/-danielmarianomarquespr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmarianomarquespr@gmail.com)](mailto:danielmarianomarquespr@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-DanielMarianoMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-mariano-marques/)](https://www.linkedin.com/in/daniel-mariano-marques/)
+[![Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielmarianomarquespr@gmail.com)<br>
+[![Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mariano-marques/)
 
 -----
 
