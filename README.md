@@ -8,7 +8,7 @@
 
  Sou um estudante e entusiasta da tecnologia, apaixonado por desenvolvimento de software. A busca constante pelo conhecimento e aprendizado são os motores que impulsionam meu trabalho.<br/>
  <br/>Estou cursando o primeiro semestre de <b>Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC)</b>. Assim como, tenho dedicado esforços no programa preparatório <b>Entra21</b>, no qual busco aprimorar minhas hard e soft skills, além de adquirir conhecimentos práticos relevantes para o mercado de trabalho. <br/>
- <br/>Este momento representa uma fase crucial em minha jornada, marcada pelo desejo de aplicar os conhecimentos adquiridos e dar os primeiros passos na minha carreira   profissional. <b>Estou, portanto, em busca da minha primeira oportunidade de emprego, onde poderei contribuir com dedicação, entusiasmo e disposição para aprender.</b><br/>
+ <br/>Este momento representa uma fase crucial em minha jornada, marcada pelo desejo de aplicar os conhecimentos adquiridos e dar os primeiros passos na minha carreira profissional.<br/>
 
  -----
 
